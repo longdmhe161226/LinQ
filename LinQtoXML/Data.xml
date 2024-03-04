@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creating an XML Tree using LINQ to XML-->
+<Students>
+  <Student Id="100">
+    <Name>Mong</Name>
+    <Gender>Male</Gender>
+    <TotalMarks>1000</TotalMarks>
+  </Student>
+  <Student Id="101">
+    <Name>Pam</Name>
+    <Gender>false</Gender>
+    <TotalMarks>912</TotalMarks>
+  </Student>
+  <Student Id="102">
+    <Name>Nong</Name>
+    <Gender>true</Gender>
+    <TotalMarks>936</TotalMarks>
+  </Student>
+  <Student Id="103">
+    <Name>John</Name>
+    <Gender>true</Gender>
+    <TotalMarks>721</TotalMarks>
+  </Student>
+  <Student Id="104">
+    <Name>Todd</Name>
+    <Gender>Male</Gender>
+    <TotalMarks>980</TotalMarks>
+  </Student>
+</Students>

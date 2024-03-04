@@ -1,0 +1,14 @@
+D:\NCC\Training\LinQ\LinQtoXML\bin\Debug\net6.0\LinQtoXML.exe
+D:\NCC\Training\LinQ\LinQtoXML\bin\Debug\net6.0\LinQtoXML.deps.json
+D:\NCC\Training\LinQ\LinQtoXML\bin\Debug\net6.0\LinQtoXML.runtimeconfig.json
+D:\NCC\Training\LinQ\LinQtoXML\bin\Debug\net6.0\LinQtoXML.dll
+D:\NCC\Training\LinQ\LinQtoXML\bin\Debug\net6.0\LinQtoXML.pdb
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\LinQtoXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\LinQtoXML.AssemblyInfoInputs.cache
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\LinQtoXML.AssemblyInfo.cs
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\LinQtoXML.csproj.CoreCompileInputs.cache
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\LinQtoXML.dll
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\refint\LinQtoXML.dll
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\LinQtoXML.pdb
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\LinQtoXML.genruntimeconfig.cache
+D:\NCC\Training\LinQ\LinQtoXML\obj\Debug\net6.0\ref\LinQtoXML.dll

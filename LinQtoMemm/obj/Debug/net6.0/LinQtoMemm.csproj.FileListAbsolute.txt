@@ -1,0 +1,14 @@
+D:\NCC\Training\LinQ\LinQtoMemm\bin\Debug\net6.0\LinQtoMemm.exe
+D:\NCC\Training\LinQ\LinQtoMemm\bin\Debug\net6.0\LinQtoMemm.deps.json
+D:\NCC\Training\LinQ\LinQtoMemm\bin\Debug\net6.0\LinQtoMemm.runtimeconfig.json
+D:\NCC\Training\LinQ\LinQtoMemm\bin\Debug\net6.0\LinQtoMemm.dll
+D:\NCC\Training\LinQ\LinQtoMemm\bin\Debug\net6.0\LinQtoMemm.pdb
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\LinQtoMemm.GeneratedMSBuildEditorConfig.editorconfig
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\LinQtoMemm.AssemblyInfoInputs.cache
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\LinQtoMemm.AssemblyInfo.cs
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\LinQtoMemm.csproj.CoreCompileInputs.cache
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\LinQtoMemm.dll
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\refint\LinQtoMemm.dll
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\LinQtoMemm.pdb
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\LinQtoMemm.genruntimeconfig.cache
+D:\NCC\Training\LinQ\LinQtoMemm\obj\Debug\net6.0\ref\LinQtoMemm.dll
